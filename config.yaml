@@ -1,11 +1,22 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'q-bio.CB OR q-bio.PE OR q-bio.QM OR q-bio.MN OR physics.bio-ph OR nlin.AO '
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        adaptation: 3
+        information theory: 3
+        stochastic control: 3
+        decision process: 3
+        algebraic geometry: 2
+        homology: 2
+        stochastic thermodynamics: 2
+        information thermodynamics: 2
+        filtering theory: 2
+        point process: 2
+        temporal sensing: 1
+        spatial sensing: 1
+        active learning: 1
+        deep learning: 1
 
 # 通知の閾値
 score_threshold: 0

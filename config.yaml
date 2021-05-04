@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'q-bio.CB OR q-bio.PE OR q-bio.QM OR q-bio.MN OR physics.bio-ph OR nlin.AO '
+subject: 'q-bio.CB' OR 'q-bio.PE' OR 'q-bio.QM' OR 'q-bio.MN' OR 'physics.bio-ph' OR 'nlin.AO '
 
 # 検索キーワード
 keywords:
